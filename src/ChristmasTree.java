@@ -1,7 +1,6 @@
 // Imports Scanner class (from java.util package)
 import java.util.Scanner;
 
-// Extra test
 public class ChristmasTree {
     public static void main(String[] args) {
         // Expecting user's input (blinking I-beam cursor)
