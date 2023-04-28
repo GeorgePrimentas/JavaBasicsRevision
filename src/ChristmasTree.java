@@ -1,7 +1,8 @@
 // Imports Scanner class (from java.util package)
 import java.util.Scanner;
-
+// The next line defines a new class called "ChristmasTree"
 public class ChristmasTree {
+    // The next line defines a new method called "main"
     public static void main(String[] args) {
         // Expecting user's input (blinking I-beam cursor)
         Scanner input = new Scanner(System.in);
